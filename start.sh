@@ -4,7 +4,7 @@
 DOCKERHOME=/spring-microservice-exam
 
 # 镜像名称前缀、标签
-BASE_IMAGE_NAME=registry.cn-hangzhou.aliyuncs.com/spring-microservice-exam
+BASE_IMAGE_NAME=docker.io/dockertomuzi
 BSEE_IMAGE_TAG=3.2.0-SNAPSHOT
 
 # 各服务的镜像名称
